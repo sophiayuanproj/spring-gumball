@@ -1,6 +1,6 @@
 # CMPE 172 - Lab #10 Notes
 
-Link to repo: https://github.com/sophiayuanproj/spring-gumball
+Link to Lab 10 README that shows history (I was working on the README in that repo for the lab, this one is a copy): https://github.com/nguyensjsu/cmpe172-sophiayuanproj/tree/main/labs/lab10
 
 (CD workflow will be set up on GKE)
 
