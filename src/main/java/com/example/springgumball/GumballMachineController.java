@@ -22,6 +22,8 @@ import com.example.gumballmachine.GumballMachine ;
 @RequestMapping("/")
 public class GumballMachineController {
 
+    int test = 5;
+
     @GetMapping
     public String getAction( @ModelAttribute("command") GumballCommand command,
                              Model model, HttpSession session) {
